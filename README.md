@@ -2,11 +2,11 @@
 
 📅 **Tugas:**  
 Study Group Mobile Programming - Motionlab  
-📁 **Repository:** `StudyGroup-MP-Motionlab`  
+**Repository:** `StudyGroup-MP-Motionlab`  
 👤 **Disusun oleh:** Ardian Maulana
 
 
-## 🏁 1. Inisialisasi Repository
+## 1. Inisialisasi Repository
 | Command | Fungsi |
 |----------|--------|
 | `git init` | Membuat repository Git baru di folder lokal |
@@ -14,7 +14,7 @@ Study Group Mobile Programming - Motionlab
 
 ---
 
-## 🌿 2. Branch (Cabang Pengembangan)
+## 2. Branch (Cabang Pengembangan)
 | Command | Fungsi |
 |----------|--------|
 | `git branch` | Menampilkan daftar branch lokal |
@@ -28,7 +28,7 @@ Study Group Mobile Programming - Motionlab
 
 ---
 
-## 💾 3. Stage dan Commit
+## 3. Stage dan Commit
 | Command | Fungsi |
 |----------|--------|
 | `git status` | Melihat status file yang berubah |
@@ -42,7 +42,7 @@ Study Group Mobile Programming - Motionlab
 
 ---
 
-## 🌍 4. Remote Repository (GitHub, GitLab, Bitbucket)
+## 4. Remote Repository (GitHub, GitLab, Bitbucket)
 | Command | Fungsi |
 |----------|--------|
 | `git remote -v` | Melihat remote yang terhubung |
@@ -55,7 +55,7 @@ Study Group Mobile Programming - Motionlab
 
 ---
 
-## 🔁 5. Sinkronisasi dan Update
+## 5. Sinkronisasi dan Update
 | Command | Fungsi |
 |----------|--------|
 | `git pull` | Menarik perubahan dari remote ke lokal |
@@ -65,7 +65,7 @@ Study Group Mobile Programming - Motionlab
 
 ---
 
-## 🧹 6. Menghapus / Mengembalikan Perubahan
+## 6. Menghapus / Mengembalikan Perubahan
 | Command | Fungsi |
 |----------|--------|
 | `git rm [nama-file]` | Menghapus file dari repo dan staging area |
@@ -76,7 +76,7 @@ Study Group Mobile Programming - Motionlab
 
 ---
 
-## 🧩 7. Tagging (Penandaan Versi)
+## 7. Tagging (Penandaan Versi)
 | Command | Fungsi |
 |----------|--------|
 | `git tag` | Melihat daftar tag |
@@ -87,7 +87,7 @@ Study Group Mobile Programming - Motionlab
 
 ---
 
-## 🔐 8. Konfigurasi Git
+## 8. Konfigurasi Git
 | Command | Fungsi |
 |----------|--------|
 | `git config --global user.name "Nama Kamu"` | Mengatur nama pengguna |
@@ -96,7 +96,7 @@ Study Group Mobile Programming - Motionlab
 
 ---
 
-## 🧰 9. Bantuan
+## 9. Bantuan
 | Command | Fungsi |
 |----------|--------|
 | `git --version` | Menampilkan versi Git |
@@ -104,7 +104,7 @@ Study Group Mobile Programming - Motionlab
 
 ---
 
-## 💡 10. Command Ekstra 
+## 10. Command Ekstra 
 | Command | Fungsi |
 |----------|--------|
 | `git stash` | Menyimpan perubahan sementara tanpa commit |
@@ -115,7 +115,7 @@ Study Group Mobile Programming - Motionlab
 
 ---
 
-## 🧠 11. Advanced 
+## 11. Advanced 
 | Command | Fungsi |
 |----------|--------|
 | `git cherry-pick [commit-id]` | Mengambil satu commit tertentu dari branch lain |
@@ -134,7 +134,7 @@ Study Group Mobile Programming - Motionlab
 
 ---
 
-## ⚙️ 12. GitHub CLI (Command Line Interface)
+## 12. GitHub CLI (Command Line Interface)
 
 | Command | Fungsi |
 |----------|--------|
@@ -147,7 +147,7 @@ Study Group Mobile Programming - Motionlab
 
 ---
 
-## 🧾 13. Alias & Shortcut
+## 13. Alias & Shortcut
 | Command | Fungsi |
 |----------|--------|
 | `git config --global alias.st status` | Membuat alias `git st` untuk `git status` |
@@ -157,7 +157,7 @@ Study Group Mobile Programming - Motionlab
 
 ---
 
-## 🧩 14. Error Umum
+## 14. Error Umum
 | Error | Solusi |
 |--------|--------|
 | `fatal: not a git repository` | Jalankan `git init` di folder tersebut |
