@@ -96,7 +96,7 @@ Study Group Mobile Programming - Motionlab
 
 ---
 
-## 🧰 9. Informasi & Bantuan
+## 🧰 9. Bantuan
 | Command | Fungsi |
 |----------|--------|
 | `git --version` | Menampilkan versi Git |
@@ -157,7 +157,7 @@ Study Group Mobile Programming - Motionlab
 
 ---
 
-## 🧩 14. Troubleshooting / Error Umum
+## 🧩 14. Error Umum
 | Error | Solusi |
 |--------|--------|
 | `fatal: not a git repository` | Jalankan `git init` di folder tersebut |
