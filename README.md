@@ -1,1 +1,1 @@
-# StudyGroup-MP-Motionlab
+"Rangkuman Minggu 1 - Version Control (Git)" 
