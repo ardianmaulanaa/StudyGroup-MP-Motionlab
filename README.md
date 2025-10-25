@@ -104,7 +104,7 @@ Study Group Mobile Programming - Motionlab
 
 ---
 
-## 💡 10. Command Ekstra (Opsional)
+## 💡 10. Command Ekstra 
 | Command | Fungsi |
 |----------|--------|
 | `git stash` | Menyimpan perubahan sementara tanpa commit |
@@ -115,7 +115,7 @@ Study Group Mobile Programming - Motionlab
 
 ---
 
-## 🧠 11. Advanced / Lanjutan
+## 🧠 11. Advanced 
 | Command | Fungsi |
 |----------|--------|
 | `git cherry-pick [commit-id]` | Mengambil satu commit tertentu dari branch lain |
@@ -135,7 +135,6 @@ Study Group Mobile Programming - Motionlab
 ---
 
 ## ⚙️ 12. GitHub CLI (Command Line Interface)
-> *Opsional — jika kamu menggunakan GitHub CLI (`gh`)*
 
 | Command | Fungsi |
 |----------|--------|
